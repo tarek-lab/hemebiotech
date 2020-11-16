@@ -1,0 +1,7 @@
+[1012/145515.879:ERROR:directory_reader_win.cc(43)] FindFirstFile: Le chemin d’accès spécifié est introuvable. (0x3)
+[1014/012814.372:ERROR:process_reader_win.cc(127)] NtOpenThread: {Accès refusé} Un processus a demandé l’accès a un objet, mais il ne bénéficie pas des autorisations nécessaires. (0xc0000022)
+[1014/012814.528:ERROR:process_reader_win.cc(127)] NtOpenThread: {Accès refusé} Un processus a demandé l’accès a un objet, mais il ne bénéficie pas des autorisations nécessaires. (0xc0000022)
+[1014/012814.590:ERROR:exception_snapshot_win.cc(100)] thread ID 100984 not found in process
+[1014/012814.590:ERROR:exception_snapshot_win.cc(100)] thread ID 101468 not found in process
+[1014/012817.247:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\tarek\AppData\Local\Microsoft\Edge\User Data\Crashpad\attachments\7fb2358d-d7e8-4e2d-bb7e-f89cdffd19c2: Le chemin d’accès spécifié est introuvable. (0x3)
+[1014/012817.481:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\tarek\AppData\Local\Microsoft\Edge\User Data\Crashpad\attachments\8d4a54bb-39a9-4db6-a9bb-da802310dade: Le chemin d’accès spécifié est introuvable. (0x3)
