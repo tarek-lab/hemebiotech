@@ -3,7 +3,11 @@ package com.hemebiotech.analytics;
 import java.io.IOException;
 import java.util.List;
 import java.util.Map;
-
+/**
+ * class qui joue le role d'un orchestrateur 
+ * @author tarek
+ *
+ */
 public class AnalyticsCounter {
 	
 	ReadSymptomDataFromFile readSymptomDataFromFile;
